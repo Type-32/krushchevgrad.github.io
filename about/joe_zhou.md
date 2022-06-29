@@ -1,5 +1,7 @@
 ## Joe Zhou - Krushchevgrad City Project Personnel
+
 ### Zone Layout Designer
+
 Joe worked as a **Zone Layout Designer** in this Green City Project. He devised and designed early versions of city layouts and city zones for Krushchevgrad City, which a few of his designs were used and deployed in the project.
 
 ### Reflection

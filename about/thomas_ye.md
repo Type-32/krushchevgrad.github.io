@@ -1,5 +1,7 @@
 ## Thomas - Krushchevgrad City Project Personnel
+
 ### "Versatilitarian" - Board Cutter, Board Gluer, Assembler, Advisor, Layout Advisor, Strcuture Advisor
+
 Thomas took part in many jobs in this Green City Project. He advised for the city of having different zones distributed near many functional zones and having industrial/development zones to be away from residential areas, he also cutted and glued boards and had advised the board cutters on how to cut PVA boards according to needs, and had proposed zone structure layouts and structures that are vital for the city.
 
 ### Reflection(Machine Translated)
