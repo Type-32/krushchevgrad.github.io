@@ -17,7 +17,7 @@ This is a STEAM Class Project undergoing for 2 months, dedicated into making a *
 
 **Ryan Li** - Substructure Painter
 
-[Joe Zhou](https://type-32.github.io/krushchevgrad.github.io/about/joe_zhou) - Zone Layout Designer
+**[Joe Zhou](https://type-32.github.io/krushchevgrad.github.io/about/joe_zhou)** - Zone Layout Designer
 
 [Thomas "Yevsky" Ye](https://type-32.github.io/krushchevgrad.github.io/about/thomas_ye) - "Versatilitarian"
 
