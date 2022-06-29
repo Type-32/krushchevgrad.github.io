@@ -5,13 +5,13 @@ This is a STEAM Class Project undergoing for 2 months, dedicated into making a *
 
 ## Meet The Team
 
-### The Leading Group
+### The Leading Members
 
 **Wilson Su** - Project Supervisor
 
 **Shawn Zhao** - City Layout & Infrastructure Designer
 
-### The Working Group
+### The Work Members(Click on the names for more information on each member)
 
 **Max Sun** - Infrastructure Painter
 
@@ -19,8 +19,21 @@ This is a STEAM Class Project undergoing for 2 months, dedicated into making a *
 
 **[Joe Zhou](https://type-32.github.io/krushchevgrad.github.io/about/joe_zhou)** - Zone Layout Designer
 
-[Thomas "Yevsky" Ye](https://type-32.github.io/krushchevgrad.github.io/about/thomas_ye) - "Versatilitarian"
+**[Thomas "Yevsky" Ye](https://type-32.github.io/krushchevgrad.github.io/about/thomas_ye)** - "Versatilitarian"
 
+**[Hans Li](https://type-32.github.io/krushchevgrad.github.io/about/hans_li)** - Painter & Env. Painter
+
+**[Felix Fang](https://type-32.github.io/krushchevgrad.github.io/about/felix_fang)** - Cutter & Gluer
+
+**Richard Wu** - Structure Builder
+
+**[Kai Xu](https://type-32.github.io/krushchevgrad.github.io/about/kai_xu)** - Part-Time Cutter
+
+**Diego Chen** - Emotional Damage Support
+
+**Brandon Yang** - Part-Time Cutter & Gluer
+
+**Jack Chen** - Bystander
 
 ## Gallery
 

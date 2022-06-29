@@ -1,4 +1,4 @@
-## Thomas - Krushchevgrad City Project Personnel
+## Thomas "Yevsky" Ye - Krushchevgrad City Project Personnel
 
 ### "Versatilitarian" - Board Cutter, Board Gluer, Assembler, Advisor, Layout Advisor, Strcuture Advisor
 

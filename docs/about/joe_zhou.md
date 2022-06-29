@@ -13,4 +13,7 @@ Reflection Questions
 4. Do you think that the project has gone well? Why and how?
 ```
 
-No Reflection text Available
+1. I help to design and make buildings, It’s helps what the city look like and speed up it.
+2. I help the city build up faster with their buildings.
+3. I feel nothing about it.
+4. Maybe, because some people is really working, but someone don’t take part in the whole project.
